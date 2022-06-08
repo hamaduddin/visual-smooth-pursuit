@@ -1,1 +1,1 @@
-# visual-smooth-pursuit
+# visual-smooth-pursuit of humanoid robot
